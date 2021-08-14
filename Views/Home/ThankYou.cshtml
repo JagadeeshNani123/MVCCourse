@@ -1,0 +1,44 @@
+﻿@model MVC_Course.Models.WebinarInvites
+
+@{
+    ViewData["Title"] = "ThankYou";
+}
+
+<h1>ThankYou</h1>
+
+@if (Model.WillJoin == true)
+{
+    <div>
+
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.PhoneNumber)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.PhoneNumber)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.EmailAddress)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.EmailAddress)
+            </dd>
+
+        </dl>
+    </div>
+}
+else
+{
+    <h1> Thanks for letting us know</h1>
+}
+<div>
+    Click <a class="btn btn-primary" asp-action="ListOfResponses">here</a> to see who is joining
+</div>
+
