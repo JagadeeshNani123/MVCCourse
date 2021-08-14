@@ -28,6 +28,30 @@ namespace MVC_Course.Controllers
             return View();
         }
 
+        [HttpGet]
+        public IActionResult RegisterForm()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult RegisterForm(WebinarInvites response)
+        {
+            if (ModelState.IsValid)
+            {
+                Repository.AddResponse(response);
+                return View("ThankYou", response);
+            }
+            else
+                return View();
+        }
+
+        [HttpGet]
+        public IActionResult ListOfResponses()
+        {
+            return View(Repository.Responses.Where(r=> r.WillJoin==true));
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
