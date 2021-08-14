@@ -6337,9 +6337,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Jagadeesh\\MVC learning Apps\\MVC Course\\MVCCourse.csproj",
-      "projectName": "MVCCourse",
-      "projectPath": "C:\\Jagadeesh\\MVC learning Apps\\MVC Course\\MVCCourse.csproj",
+      "projectUniqueName": "C:\\Jagadeesh\\MVC learning Apps\\MVC Course\\MVC Course.csproj",
+      "projectName": "MVC Course",
+      "projectPath": "C:\\Jagadeesh\\MVC learning Apps\\MVC Course\\MVC Course.csproj",
       "packagesPath": "C:\\Users\\jagad\\.nuget\\packages\\",
       "outputPath": "C:\\Jagadeesh\\MVC learning Apps\\MVC Course\\obj\\",
       "projectStyle": "PackageReference",

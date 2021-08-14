@@ -325,7 +325,6 @@ C:\Jagadeesh\MVC learning Apps\MVC Course\bin\Debug\net5.0\ru\Microsoft.CodeAnal
 C:\Jagadeesh\MVC learning Apps\MVC Course\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Jagadeesh\MVC learning Apps\MVC Course\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Jagadeesh\MVC learning Apps\MVC Course\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Jagadeesh\MVC learning Apps\MVC Course\obj\Debug\net5.0\MVC Course.csproj.AssemblyReference.cache
 C:\Jagadeesh\MVC learning Apps\MVC Course\obj\Debug\net5.0\MVC Course.GeneratedMSBuildEditorConfig.editorconfig
 C:\Jagadeesh\MVC learning Apps\MVC Course\obj\Debug\net5.0\MVC Course.AssemblyInfoInputs.cache
 C:\Jagadeesh\MVC learning Apps\MVC Course\obj\Debug\net5.0\MVC Course.AssemblyInfo.cs

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9TZvihGg0kfHyQ1cwkV5Jt95l9p7+RrfmKt+HFjBZiNl0hFIhSrCdU2f+jBmxbupZtZx0ZNsLfh9vEi9qa4GmQ==",
+  "dgSpecHash": "lKB+Owsqv6wO/FIOd52H+ivRf7wsDWXrUNY9XrZ5XW0F+CPKgGpckAnKJtEdtwVCgmIoLfrZi0SNyeSXUEI0Nw==",
   "success": true,
-  "projectFilePath": "C:\\Jagadeesh\\MVC learning Apps\\MVC Course\\MVCCourse.csproj",
+  "projectFilePath": "C:\\Jagadeesh\\MVC learning Apps\\MVC Course\\MVC Course.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jagad\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\jagad\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
